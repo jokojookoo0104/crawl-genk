@@ -1,0 +1,13 @@
+# proxy file content, must conform to json format, otherwise will cause json
+# load error
+HTTP_PROXIES = [
+    '159.65.134.187:8080',
+    '115.87.205.226:8080',
+    '165.227.206.111:8080',
+    '124.219.176.139:39589',
+
+]
+HTTPS_PROXIES = [
+    '190.167.215.170:52479',
+    '167.99.68.14:8080'
+]
