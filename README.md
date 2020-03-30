@@ -5,7 +5,7 @@ crawl-data-genk.vn
 # create a env
 $   virtualenv env --python=python3.6
 
-#activate env
+# activate env
 $   source env/bin/activate
 
 # install requirements
